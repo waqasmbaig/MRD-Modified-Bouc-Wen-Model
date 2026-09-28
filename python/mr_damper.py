@@ -17,7 +17,6 @@ Citation Request:
     [3] W. M. Baig, Z. Hou, and S. Ijaz, "Fractional order controller design for a semi-active
         suspension system using Nelder-Mead optimization," in Proc. 29th Chinese Control and
         Decision Conference (CCDC), 2017, pp. 2808-2813.
-    [4] B. F. Spencer Jr. et al., ASCE J. Eng. Mech., 1997.
 
 All internal calculations adhere strictly to SI base units (m, s, N, V, rad).
 """

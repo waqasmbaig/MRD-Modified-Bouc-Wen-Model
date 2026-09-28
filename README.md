@@ -372,18 +372,6 @@ If you use this model, simulation framework, or code in your research, academic 
   pages={2808--2813},
   year={2017}
 }
-
-@article{spencer1997phenomenological,
-  title={Phenomenological model for magnetorheological dampers},
-  author={Spencer Jr, B. F. and Dyke, S. J. and Sain, M. K. and Carlson, J. D.},
-  journal={Journal of Engineering Mechanics},
-  volume={123},
-  number={3},
-  pages={230--238},
-  year={1997},
-  publisher={American Society of Civil Engineers},
-  doi={10.1061/(ASCE)0733-9399(1997)123:3(230)}
-}
 ```
 
 ---

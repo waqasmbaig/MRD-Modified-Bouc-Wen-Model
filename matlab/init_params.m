@@ -1,6 +1,12 @@
 %% Parameters for Spencer Modified Bouc-Wen MR Damper Model
-% Reference: Spencer et al. (1997), ASCE J. Eng. Mech.
+% Author: W. M. Baig
 % Model file: MRD_FDFV.slx
+%
+% When using this model, please cite:
+%   [1] Z. Yu, R. Luo, P. Wu, W. M. Baig, H. Ma, Z. Hou, IEEE TTE 2025 (DOI: 10.1109/TTE.2025.3535765)
+%   [2] W. M. Baig, Z. Yu, H. Ma, Z. Hou, IEEE VTC2025-Spring (DOI: 10.1109/VTC2025-Spring65109.2025.11174543)
+%   [3] W. M. Baig, Z. Hou, S. Ijaz, CCDC 2017 (pp. 2808-2813)
+%   [4] B. F. Spencer Jr. et al., ASCE J. Eng. Mech. 1997
 
 clear;
 clc;

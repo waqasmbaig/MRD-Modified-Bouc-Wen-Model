@@ -1,14 +1,25 @@
 """
 Modified Bouc-Wen Phenomenological Model for Magnetorheological (MR) Dampers.
 
-Reference:
-    Spencer, B. F., Dyke, S. J., Sain, M. K., & Carlson, J. D. (1997).
-    "Phenomenological Model for Magnetorheological Dampers."
-    Journal of Engineering Mechanics, ASCE, 123(3), 230-238.
-    https://doi.org/10.1061/(ASCE)0733-9399(1997)123:3(230)
+Author:
+    W. M. Baig
 
-Author: Open-Source Vehicle Dynamics & Smart Structures Reference
-All internal calculations adhere strictly to SI units (m, s, N, V, rad).
+Citation Request:
+    If you use this model or code in your research, please cite:
+    [1] Z. Yu, R. Luo, P. Wu, W. M. Baig, H. Ma, and Z. Hou, "Robust finite-frequency vibration
+        control of in-wheel motor driving vehicles based on torque coordination and motor
+        suspension," IEEE Transactions on Transportation Electrification, 2025.
+        doi: 10.1109/TTE.2025.3535765
+    [2] W. M. Baig, Z. Yu, H. Ma, and Z. Hou, "Adaptive vibration control of in-wheel motor
+        drive vehicles with preview information," in Proc. IEEE 101st Vehicular Technology
+        Conference (VTC2025-Spring), Oslo, Norway, 2025.
+        doi: 10.1109/VTC2025-Spring65109.2025.11174543
+    [3] W. M. Baig, Z. Hou, and S. Ijaz, "Fractional order controller design for a semi-active
+        suspension system using Nelder-Mead optimization," in Proc. 29th Chinese Control and
+        Decision Conference (CCDC), 2017, pp. 2808-2813.
+    [4] B. F. Spencer Jr. et al., ASCE J. Eng. Mech., 1997.
+
+All internal calculations adhere strictly to SI base units (m, s, N, V, rad).
 """
 
 from dataclasses import dataclass

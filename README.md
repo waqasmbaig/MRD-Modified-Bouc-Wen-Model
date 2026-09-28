@@ -327,9 +327,52 @@ gh repo create MRD-Modified-Bouc-Wen-Model --public --source=. --push
 
 ## References & Citation
 
-If you use this model or code in your research or educational projects, please cite:
+If you use this model, simulation framework, or code in your research, academic publications, or vehicle vibration control studies, **please cite the following publications**:
+
+### Primary Research Publications
+
+1. **[J1] Journal Paper (IEEE TTE 2025)**:
+   > Z. Yu, R. Luo, P. Wu, **W. M. Baig**, H. Ma, and Z. Hou, "Robust finite-frequency vibration control of in-wheel motor driving vehicles based on torque coordination and motor suspension," *IEEE Transactions on Transportation Electrification*, 2025.  
+   > **DOI:** [10.1109/TTE.2025.3535765](https://doi.org/10.1109/TTE.2025.3535765)
+
+2. **[C1] Conference Paper (IEEE VTC2025-Spring)**:
+   > **W. M. Baig**, Z. Yu, H. Ma, and Z. Hou, "Adaptive vibration control of in-wheel motor drive vehicles with preview information," in *Proc. IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, Oslo, Norway, 2025.  
+   > **DOI:** [10.1109/VTC2025-Spring65109.2025.11174543](https://doi.org/10.1109/VTC2025-Spring65109.2025.11174543)
+
+3. **[C5] Conference Paper (CCDC 2017)**:
+   > **W. M. Baig**, Z. Hou, and S. Ijaz, "Fractional order controller design for a semi-active suspension system using Nelder–Mead optimization," in *Proc. 29th Chinese Control and Decision Conference (CCDC)*, 2017, pp. 2808–2813.
+
+---
+
+### BibTeX Entries
 
 ```bibtex
+@article{yu2025robust,
+  title={Robust finite-frequency vibration control of in-wheel motor driving vehicles based on torque coordination and motor suspension},
+  author={Yu, Z. and Luo, R. and Wu, P. and Baig, W. M. and Ma, H. and Hou, Z.},
+  journal={IEEE Transactions on Transportation Electrification},
+  year={2025},
+  publisher={IEEE},
+  doi={10.1109/TTE.2025.3535765}
+}
+
+@inproceedings{baig2025adaptive,
+  title={Adaptive vibration control of in-wheel motor drive vehicles with preview information},
+  author={Baig, W. M. and Yu, Z. and Ma, H. and Hou, Z.},
+  booktitle={Proc. IEEE 101st Vehicular Technology Conference (VTC2025-Spring)},
+  address={Oslo, Norway},
+  year={2025},
+  doi={10.1109/VTC2025-Spring65109.2025.11174543}
+}
+
+@inproceedings{baig2017fractional,
+  title={Fractional order controller design for a semi-active suspension system using Nelder--Mead optimization},
+  author={Baig, W. M. and Hou, Z. and Ijaz, S.},
+  booktitle={Proc. 29th Chinese Control and Decision Conference (CCDC)},
+  pages={2808--2813},
+  year={2017}
+}
+
 @article{spencer1997phenomenological,
   title={Phenomenological model for magnetorheological dampers},
   author={Spencer Jr, B. F. and Dyke, S. J. and Sain, M. K. and Carlson, J. D.},

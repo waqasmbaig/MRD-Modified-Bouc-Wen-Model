@@ -64,11 +64,11 @@ The mechanical analog represents the damper through five coupled components:
 All equations are defined in **SI base units** ($\text{m}, \text{s}, \text{N}, \text{V}, \text{rad}$).
 
 ### 1. Total Damper Output Force
-The net force $F_{\text{MR}}$ transmitted to the mounting chassis is:
-$$F_{\text{MR}} = c_1 \dot{y} + k_1 (x - x_0)$$
+The net damping force $F_d$ (or $F_{\text{MR}}$) transmitted to the mounting chassis is:
+$$F_d = c_1 \dot{y} + k_1 (x - x_0)$$
 
 By internal dynamic equilibrium at node $y$, this is equivalent to:
-$$F_{\text{MR}} = \alpha z + c_0 (\dot{x} - \dot{y}) + k_0 (x - y) + k_1 (x - x_0)$$
+$$F_d = \alpha z + c_0 (\dot{x} - \dot{y}) + k_0 (x - y) + k_1 (x - x_0)$$
 
 ### 2. Internal Kinematics ($\dot{y}$)
 Summing forces at node $y$ yields:

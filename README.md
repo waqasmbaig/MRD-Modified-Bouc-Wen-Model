@@ -26,7 +26,7 @@
 ---
 
 > [!TIP]
-> **🚀 Interactive Web App & Lab Tutorials**: An interactive web simulator is available at **[modified-bouc-wen-model-simulation.ai.studio](https://modified-bouc-wen-model-simulation.ai.studio)** (or GitHub mirror: **[waqasmbaig.github.io/MR-Damper-Lab](https://waqasmbaig.github.io/MR-Damper-Lab/)**). For step-by-step experiment tutorials, parameter tuning cheat sheets, and Python/Jupyter telemetry analysis tools, visit the companion repository **[waqasmbaig/MR-Damper-Lab](https://github.com/waqasmbaig/MR-Damper-Lab)**!
+> **🚀 Interactive Web App & Quarter-Car Control Benchmark**: An interactive web simulator is available at **[modified-bouc-wen-model-simulation.ai.studio](https://modified-bouc-wen-model-simulation.ai.studio)** (or GitHub mirror: **[waqasmbaig.github.io/MR-Damper-Lab](https://waqasmbaig.github.io/MR-Damper-Lab/)**). For digital twin tutorials, visit **[waqasmbaig/MR-Damper-Lab](https://github.com/waqasmbaig/MR-Damper-Lab)**. For full 2-DOF vehicle dynamics suspension simulation with Skyhook/Groundhook control and Basic Passive Damper comparison, visit **[waqasmbaig/Semi-Active-MR-Damper-Control](https://github.com/waqasmbaig/Semi-Active-MR-Damper-Control)**!
 
 ---
 

@@ -8,9 +8,11 @@
   <a href="https://www.mathworks.com/products/simulink.html"><img src="https://img.shields.io/badge/Simulink-Model-0076a8.svg?style=for-the-badge&logo=mathworks" alt="Simulink"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9%2B-3776ab.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://doi.org/10.1109/TTE.2025.3535765"><img src="https://img.shields.io/badge/IEEE%20TTE-10.1109%2FTTE.2025.3535765-orange.svg?style=for-the-badge" alt="IEEE DOI"/></a>
+  <a href="https://modified-bouc-wen-model-simulation.ai.studio"><img src="https://img.shields.io/badge/🌐_Live_Web_App-Google_AI_Studio-4285F4.svg?style=for-the-badge&logo=google" alt="Live Web App"/></a>
 </p>
 
 <p align="center">
+  <a href="https://modified-bouc-wen-model-simulation.ai.studio"><b>🌐 Live Web App</b></a> •
   <a href="#-key-features"><b>Key Features</b></a> •
   <a href="#-mechanical-architecture"><b>Architecture</b></a> •
   <a href="#-mathematical-formulation"><b>Mathematics</b></a> •
@@ -20,6 +22,11 @@
   <a href="#-quick-start"><b>Quick Start</b></a> •
   <a href="#-citation-request"><b>Citations</b></a>
 </p>
+
+---
+
+> [!TIP]
+> **🚀 Try the In-Browser Web App**: An interactive web simulator is available at **[modified-bouc-wen-model-simulation.ai.studio](https://modified-bouc-wen-model-simulation.ai.studio)** (or GitHub mirror: **[waqasmbaig/Modified-Bouc-Wen-Model-Simulation](https://github.com/waqasmbaig/Modified-Bouc-Wen-Model-Simulation)**) for real-time 60 FPS RK4 tuning, live dynamic hysteresis plotting, and AI vibration consulting directly in your browser without requiring MATLAB or Python!
 
 ---
 

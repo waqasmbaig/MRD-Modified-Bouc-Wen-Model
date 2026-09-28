@@ -26,7 +26,7 @@
 ---
 
 > [!TIP]
-> **🚀 Try the In-Browser Web App**: An interactive web simulator is available at **[modified-bouc-wen-model-simulation.ai.studio](https://modified-bouc-wen-model-simulation.ai.studio)** (or GitHub mirror: **[waqasmbaig/Modified-Bouc-Wen-Model-Simulation](https://github.com/waqasmbaig/Modified-Bouc-Wen-Model-Simulation)**) for real-time 60 FPS RK4 tuning, live dynamic hysteresis plotting, and AI vibration consulting directly in your browser without requiring MATLAB or Python!
+> **🚀 Interactive Web App & Lab Tutorials**: An interactive web simulator is available at **[modified-bouc-wen-model-simulation.ai.studio](https://modified-bouc-wen-model-simulation.ai.studio)** (or GitHub mirror: **[waqasmbaig.github.io/MR-Damper-Lab](https://waqasmbaig.github.io/MR-Damper-Lab/)**). For step-by-step experiment tutorials, parameter tuning cheat sheets, and Python/Jupyter telemetry analysis tools, visit the companion repository **[waqasmbaig/MR-Damper-Lab](https://github.com/waqasmbaig/MR-Damper-Lab)**!
 
 ---
 

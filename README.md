@@ -229,7 +229,7 @@ MRD-Modified-Bouc-Wen-Model/
 ### Installation
 Clone the repository and install requirements:
 ```bash
-git clone https://github.com/<your-username>/MRD-Modified-Bouc-Wen-Model.git
+git clone https://github.com/waqasmbaig/MRD-Modified-Bouc-Wen-Model.git
 cd MRD-Modified-Bouc-Wen-Model
 pip install -r requirements.txt
 ```
@@ -309,7 +309,7 @@ git config user.name "Your Name"
 git config user.email "your_email@example.com"
 
 # 2. Add remote URL (replace with your GitHub repository URL)
-git remote add origin https://github.com/<your-username>/MRD-Modified-Bouc-Wen-Model.git
+git remote add origin https://github.com/waqasmbaig/MRD-Modified-Bouc-Wen-Model.git
 
 # 3. Rename default branch to main and push
 git branch -M main

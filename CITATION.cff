@@ -6,7 +6,7 @@ authors:
     given-names: "W. M."
 date-released: 2025-01-01
 license: "MIT"
-repository-code: "https://github.com/baig/MRD-Modified-Bouc-Wen-Model"
+repository-code: "https://github.com/waqasmbaig/MRD-Modified-Bouc-Wen-Model"
 keywords:
   - "magnetorheological damper"
   - "modified bouc-wen model"
